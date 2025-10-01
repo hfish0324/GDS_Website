@@ -1,0 +1,12 @@
+#csstest{
+    color: cornflowerblue;
+    font-size: 100px;
+    border: 2px solid black
+}
+
+.classTest{
+    color:azure;
+    font-size: small;
+    background-color: darkgrey;
+    border: 2px solid black
+}
